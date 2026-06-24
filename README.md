@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=600&size=21&duration=2800&pause=900&color=7C5CFF&center=true&vCenter=true&width=560&lines=AI+Engineer;Building+Eona+OS;LLM+Agents+%C2%B7+RAG+%C2%B7+MLOps;Open+to+freelance+%26+collaboration" alt="what I do" />
+<img src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=600&size=21&duration=2800&pause=900&color=7C5CFF&center=true&vCenter=true&width=560&lines=AI+Engineer;Builder+of+AI+products;Agents+%C2%B7+Games+%C2%B7+Wearables;Open+to+freelance+%26+collaboration" alt="what I do" />
 
 <br/>
 
@@ -31,9 +31,9 @@
 ## 🧠 About
 
 <!-- EDIT the four lines below -->
-- 🔭 Building **[Eona&nbsp;OS](https://github.com/livelong99/eona-os)** — a self-hosted, local-first multi-agent orchestration platform (Claude-powered, Obsidian-vault memory).
-- 🌱 Exploring — <!-- EDIT: e.g. agentic workflows, fine-tuning, retrieval, evals -->
-- 💬 Ask me about — LLM agents, RAG, prompt engineering, MLOps.
+- 🔭 Building a range of AI-driven products — from agent platforms to games and wearables (a few below).
+- 🌱 Exploring — <!-- EDIT: e.g. agentic workflows, fine-tuning, on-device ML -->
+- 💬 Ask me about — LLM agents, RAG, applied ML, and shipping AI products end-to-end.
 - ⚡ Fun fact — <!-- EDIT -->
 
 ## 🛠️ Tech
@@ -67,16 +67,19 @@
 
 ## 📌 Featured projects
 
-<a href="https://github.com/livelong99/eona-os">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=livelong99&repo=eona-os&hide_border=true&bg_color=00000000&title_color=7C5CFF&text_color=808080&icon_color=36D1FF" alt="Eona OS" />
-</a>
-<!-- EDIT: add a 2nd/3rd repo — duplicate the block above and change repo=YOUR-REPO
-<a href="https://github.com/livelong99/REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=livelong99&repo=REPO-2&hide_border=true&bg_color=00000000&title_color=7C5CFF&text_color=808080&icon_color=36D1FF" alt="Project 2" />
-</a>
+<!-- EDIT: fix links + one-liners. Eona OS link is live; add real URLs for the others. -->
+| | Project | What it is |
+|---|---------|------------|
+| 🌀 | [**Eona OS**](https://github.com/livelong99/eona-os) | Self-hosted, local-first multi-agent orchestration — Claude-powered, Obsidian-vault memory. |
+| 🃏 | [**Deckheads**](#) | A collectible card-game app. <!-- EDIT one-liner + link --> |
+| 🕶️ | [**MetaGlasses**](#) | AI for smart glasses / wearables. <!-- EDIT one-liner + link --> |
+| ✨ | *More incoming* | New AI products in the works. |
+
+<!-- Want a live, auto-updating card for a public repo? Drop this in a row:
+<a href="https://github.com/livelong99/REPO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=livelong99&repo=REPO&hide_border=true&bg_color=00000000&title_color=7C5CFF&text_color=808080&icon_color=36D1FF" /></a>
 -->
 
-> 💡 Also pin these under **Profile → Customize your pins**.
+> 💡 Pin your top repos under **Profile → Customize your pins**.
 
 ## 📊 GitHub
 
